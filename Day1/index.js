@@ -12,7 +12,7 @@
 //   { id: "heading" },
 //   "hello world from reactjs"
 // );
-// //creating root
+// //creating root 
 // const root = ReactDOM.createRoot(document.getElementById("root"));
 
 // const parent = React.createElement("div", { id: "parent" }, "thi is parent");
