@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "react-dom/client";
 // browser dont understand  import and export so what nd
 // this is not a normal js file it is module..
 const heading = React.createElement(
